@@ -2,5 +2,8 @@
 
 Tech used:
 Node JS
+
 GraphQL
+
 Apollo server
+
